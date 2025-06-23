@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: autqec (Logical Clifford Gates from Code Automorphisms)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Hasan '
+    family-names: Sayginel
+    email: hasan.sayginel.17@ucl.ac.uk
+    affiliation: UCL
+    orcid: 'https://orcid.org/0009-0006-8850-4044'
+identifiers:
+  - type: url
+    value: 'https://github.com/hsayginel/autqec'
+repository-code: 'https://github.com/hsayginel/autqec'
+license: GPL-3.0
+version: 1.0.0
+date-released: '2024-08-20'
